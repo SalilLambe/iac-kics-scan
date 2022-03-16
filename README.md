@@ -1,3 +1,2 @@
 # iac-kics-scan
-iac-kics-scan tool
-!!
+iac-kics-scan
