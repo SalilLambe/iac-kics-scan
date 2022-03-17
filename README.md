@@ -1,2 +1,2 @@
 # iac-kics-scan
-iac !!!!!
+iac !
